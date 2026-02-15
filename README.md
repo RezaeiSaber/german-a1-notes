@@ -51,13 +51,13 @@ Each lesson file includes:
 ## 🎓 Credits & Attribution
 
 ### Instructor
-These notes are based on the German language instruction by **[Hamed Salehi](https://www.youtube.com/@HamedSalehi)**, whose clear teaching style and structured approach make learning German accessible and enjoyable. All video content and original instruction belong to Hamed Salehi.
+These notes are based on the German language instruction by **[Hamed Salehi](https://www.youtube.com/playlist?list=PLqhbQA4NJb8Nzt0Pt9-9Kqp5hWgM1auoT)**, whose clear teaching style and structured approach make learning German accessible and enjoyable. All video content  belongs to Hamed Salehi.
 
 ### Textbook
 The curriculum follows the **"Starten Wir A1"** textbook, a comprehensive resource for German language learners at the beginner level.
 
 ### Note Author
-Notes compiled and formatted by **Saber Rezaei** ([GitHub](https://github.com/Saber-Rezaei)) for personal study and community benefit.
+Notes compiled and formatted by **Saber Rezaei** ([GitHub](https://github.com/RezaeiSaber)) for personal study and community benefit.
 
 ---
 
@@ -69,7 +69,6 @@ These educational notes have been created and shared with the **explicit permiss
 ### Fair Use & Educational Purpose
 - These notes are intended solely for **educational and non-commercial use**
 - They serve as supplementary study materials to accompany Hamed Salehi's video lessons
-- All original teaching content, methodology, and video materials remain the intellectual property of Hamed Salehi
 - The "Starten Wir A1" textbook content is property of its respective publisher
 
 ### Disclaimer
@@ -106,7 +105,7 @@ Found a typo or error? Want to add clarifications? Contributions are welcome!
 
 ## 🔗 Resources
 
-- **Hamed Salehi's YouTube Channel**: [Subscribe here](https://www.youtube.com/@HamedSalehi)
+- **Hamed Salehi's YouTube Channel**: [Subscribe here](https://www.youtube.com/@wie_deutsch)
 - **Starten Wir A1 Playlist**: Check Hamed Salehi's channel for the complete video series
 - **Practice Resources**: Supplement these notes with language learning apps and practice exercises
 
@@ -117,7 +116,7 @@ Found a typo or error? Want to add clarifications? Contributions are welcome!
 If you find these notes helpful:
 - ⭐ Star this repository
 - 🔗 Share it with fellow German learners
-- 📺 Subscribe to [Hamed Salehi's YouTube channel](https://www.youtube.com/@HamedSalehi)
+- 📺 Subscribe to [Hamed Salehi's YouTube channel](https://www.youtube.com/@wie_deutsch)
 - 💬 Provide feedback through GitHub issues
 
 ---
@@ -125,7 +124,7 @@ If you find these notes helpful:
 ## 📬 Contact
 
 **Saber Rezaei**
-- GitHub: [@Saber-Rezaei](https://github.com/Saber-Rezaei)
+- GitHub: [@RezaeiSaber](https://github.com/RezaeiSaber)
 
 ---
 
