@@ -2,7 +2,7 @@
 
 ---
 
-## [00:09](https://youtube.com/watch?v=rtwhSfqThe0&t=9s) ## Lesson Introduction: Unter Freunden
+## [00:09](https://youtube.com/watch?v=rtwhSfqThe0&t=9s) Lesson Introduction: Unter Freunden
 ### Concepts & Grammar
 * **Topic:** The lesson focuses on the "Flohmarkt" (flea market) culture in Germany, leisure activities, and coordinating plans with friends.
 * **Compound Nouns (Komposita):** German often combines two nouns to create a new one. 
@@ -12,7 +12,7 @@
 
 ---
 
-## [02:40](https://youtube.com/watch?v=rtwhSfqThe0&t=160s) ## Vocabulary: Items at a Flea Market
+## [02:40](https://youtube.com/watch?v=rtwhSfqThe0&t=160s) Vocabulary: Items at a Flea Market
 ### Detailed Vocabulary List
 The following items are commonly found and discussed in the lesson's flea market context:
 
@@ -34,7 +34,7 @@ The following items are commonly found and discussed in the lesson's flea market
 
 ---
 
-## [19:50](https://youtube.com/watch?v=rtwhSfqThe0&t=1190s) ## Grammar: The Modal Verb "wollen" (To want)
+## [19:50](https://youtube.com/watch?v=rtwhSfqThe0&t=1190s) Grammar: The Modal Verb "wollen" (To want)
 ### Modal Verb Rules
 1.  **Meaning:** *Wollen* expresses a strong intention or plan. It is more decisive than *möchten* (would like). [20:21](https://youtube.com/watch?v=rtwhSfqThe0&t=1221s)
 2.  **Sentence Structure:** The modal verb takes the **second position** (conjugated), and the main verb moves to the very **end of the sentence** in its infinitive form.
@@ -49,7 +49,7 @@ The following items are commonly found and discussed in the lesson's flea market
 
 ---
 
-## [33:16](https://youtube.com/watch?v=rtwhSfqThe0&t=1996s) ## Making Plans & Appointments
+## [33:16](https://youtube.com/watch?v=rtwhSfqThe0&t=1996s) Making Plans & Appointments
 ### Useful Phrases for Coordinating
 To arrange a meeting, use these patterns:
 
@@ -107,7 +107,7 @@ To arrange a meeting, use these patterns:
 
 ---
 
-## [00:18](https://youtube.com/watch?v=Ai-A5bLBiKw&t=18s) ## Sunday Leisure Activities
+## [00:18](https://youtube.com/watch?v=Ai-A5bLBiKw&t=18s) Sunday Leisure Activities
 ### Concepts & Vocabulary
 In Germany, Sunday is traditionally a day for "Freizeit" (leisure) and "chillen" (relaxing). The lesson explores what young people actually do on their day off.
 
@@ -127,7 +127,7 @@ In Germany, Sunday is traditionally a day for "Freizeit" (leisure) and "chillen"
 
 ---
 
-## [08:04](https://youtube.com/watch?v=Ai-A5bLBiKw&t=484s) ## Grammar: The Modal Verb "mögen" (To like)
+## [08:04](https://youtube.com/watch?v=Ai-A5bLBiKw&t=484s) Grammar: The Modal Verb "mögen" (To like)
 ### Usage and Rules
 The verb **mögen** is used to express a liking for something or someone.
 * **Mögen vs. Lieben:** *Mögen* is "to like" (less intense), while *Lieben* is "to love" (strong/romantic). [09:25](https://youtube.com/watch?v=Ai-A5bLBiKw&t=565s)
@@ -142,7 +142,7 @@ The verb **mögen** is used to express a liking for something or someone.
 
 ---
 
-## [11:51](https://youtube.com/watch?v=Ai-A5bLBiKw&t=711s) ## Ordering in a Restaurant
+## [11:51](https://youtube.com/watch?v=Ai-A5bLBiKw&t=711s) Ordering in a Restaurant
 ### Essential Roles
 * **der Kellner / die Kellnerin:** The waiter / waitress.
 * **der Gast:** The guest/customer.
@@ -203,7 +203,7 @@ When ordering, you can use these common structures (all followed by the **Accusa
 
 ---
 
-## [00:41](https://youtube.com/watch?v=IARyId4N_sA&t=41s) ## Networking & "InterNations"
+## [00:41](https://youtube.com/watch?v=IARyId4N_sA&t=41s) Networking & "InterNations"
 ### Concepts & Vocabulary
 The lesson introduces **InterNations**, a global networking community for expats and people living abroad.
 * **Network Concept:** It's about business contacts, career advancement, and making new friends.
@@ -218,7 +218,7 @@ The lesson introduces **InterNations**, a global networking community for expats
 
 ---
 
-## [06:24](https://youtube.com/watch?v=IARyId4N_sA&t=384s) ## Grammar: Sentence Connectors (Position 0)
+## [06:24](https://youtube.com/watch?v=IARyId4N_sA&t=384s) Grammar: Sentence Connectors (Position 0)
 ### The "Nullposition" Rule
 German has specific conjunctions (connectors) that connect two main clauses but **do not occupy a numbered position** in the sentence. They are essentially at "Position 0."
 
@@ -237,7 +237,7 @@ When using these, the next word (usually the subject) is Position 1, and the con
 
 ---
 
-## [21:07](https://youtube.com/watch?v=IARyId4N_sA&t=1267s) ## Conversational Skills: Active Listening & Small Talk
+## [21:07](https://youtube.com/watch?v=IARyId4N_sA&t=1267s) Conversational Skills: Active Listening & Small Talk
 ### Strategies for Better Conversations
 To show interest and keep a conversation going:
 1. **Echoing:** Repeat the last piece of information the partner said.
@@ -291,7 +291,7 @@ To show interest and keep a conversation going:
 
 ---
 
-## [00:41](https://youtube.com/watch?v=9Iq6cRcyIJ4&t=41s) ## Networking & The "Expat" Life
+## [00:41](https://youtube.com/watch?v=9Iq6cRcyIJ4&t=41s)  Networking & The "Expat" Life
 ### Concepts & Vocabulary
 The lesson focuses on **InterNations**, a global network for "Expats" (people living and working in a foreign country).
 * **Der Expat:** A person living abroad. [01:18](https://youtube.com/watch?v=9Iq6cRcyIJ4&t=78s)
@@ -304,7 +304,7 @@ The lesson focuses on **InterNations**, a global network for "Expats" (people li
 
 ---
 
-## [15:40](https://youtube.com/watch?v=9Iq6cRcyIJ4&t=940s) ## Grammar: Compound Nouns (Komposita)
+## [15:40](https://youtube.com/watch?v=9Iq6cRcyIJ4&t=940s)  Grammar: Compound Nouns (Komposita)
 ### Rules
 In German, two or more nouns can be joined to form a single word. 
 1. The **article** of the new word is always the article of the **last** noun.
@@ -319,7 +319,7 @@ In German, two or more nouns can be joined to form a single word.
 
 ---
 
-## [17:13](https://youtube.com/watch?v=9Iq6cRcyIJ4&t=1033s) ## Grammar: Modal Verbs "wollen" and "mögen"
+## [17:13](https://youtube.com/watch?v=9Iq6cRcyIJ4&t=1033s)  Grammar: Modal Verbs "wollen" and "mögen"
 ### Usage
 * **wollen:** To want (expresses intent or a firm plan).
 * **mögen:** To like (expresses a preference).
@@ -333,7 +333,7 @@ In German, two or more nouns can be joined to form a single word.
 
 ---
 
-## [24:43](https://youtube.com/watch?v=9Iq6cRcyIJ4&t=1483s) ## Grammar: Connectors (Position 0)
+## [24:43](https://youtube.com/watch?v=9Iq6cRcyIJ4&t=1483s)  Grammar: Connectors (Position 0)
 The lesson reviews connectors that do not change word order because they occupy "Position 0":
 * **und** (and)
 * **aber** (but)
